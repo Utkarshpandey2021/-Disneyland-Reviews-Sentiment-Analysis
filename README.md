@@ -123,5 +123,3 @@ For further enhancement of this project, we can:
 
 ---
 
-🔗 **GitHub/Kaggle Link:** [Add your project link here]
-
